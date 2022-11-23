@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>文档标题</title>
+</head>
+
+<body>
+   <div style="
+			   background-color: #f1f1f1;
+			   text-align: center;
+			   padding: 40px;
+			   ">
+	<img src="http://pic.5tu.cn/uploads/allimg/1706/pic_5tu_big_201705152228593009.jpg"ait="许中鹏" width="100px" height="100px">
+	</div>
+	<div style="
+				color: red;
+				max-width: 700px;
+				margin: 30px auto;
+				padding: 15px;
+				line-height: 1.7;
+				">
+	   <p>我的世界</p>
+	   <p>我的世界</p>
+	   <p>我的世界</p>
+	   <p>我的世界</p>
+	</div>
+   <div style="
+			   background-color: #f1f1f1;
+			   text-align: center;
+			   padding: 40px;
+			   font-sizn: 12px;
+			   ">
+	   <p>我的世界</p>
+	   <a href="http://pic.5tu.cn/uploads/allimg/1706/pic_5tu_big_201705152228593009.jpg"> 友情链子</a>
+	   
+	            </div>
+</body>
+
+</html>
